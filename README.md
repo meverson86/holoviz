@@ -43,3 +43,10 @@ HoloViz is a project supported in part by [Anaconda](https://anaconda.com).
 All projects used here are freely available for commercial or
 non-commercial use according to a permissive open-source license as
 described in each project's website.
+
+## Tutorial
+
+The Jupyter notebook files from the SciPy 2019 conference can be found in examples/tutorial.
+
+The video recorded from the SciPy 2019 conference can be found [here](https://www.youtube.com/watch?v=7deGS4IPAQ0).
+
